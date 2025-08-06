@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Ajay</h1>
 <h3 align="center">A passionate Computer Science student & future Full Stack Developer</h3>
 
@@ -13,9 +12,8 @@
 - 🎓 I’m currently a **5th Semester Computer Science Engineering student**
 - 🌱 Learning **DSA**, **Java**, **Full Stack Web Development**, and **Open Source**
 - 🧠 Exploring **Git & GitHub**, **APIs**, and **Cloud Basics**
-- 📫 Reach me at: **ajay@example.com**
-- 🌐 Portfolio: [ajaycsdev.github.io](https://ajaycsdev.github.io) (coming soon)
-
+- 📫 Reach me at: **ajaygurjar**78692@gmail.com
+- 🌐 Portfolio: https://github.com/Ajaysingh78
 ---
 
 ### 🚀 Tech Stack
@@ -32,7 +30,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📱 Calculator App](https://github.com/ajaycsdev/calculator-app) | Basic calculator using JS | HTML, CSS, JS |
+| [📱 Calculator App] https://ajaysingh78.github.io/My-Calculator/ | Basic calculator using JS | HTML, CSS, JS |
 | [🌦️ Weather App](https://github.com/ajaycsdev/weather-app) | Live weather using API | JS, OpenWeatherMap |
 | [🌐 Portfolio Website](https://github.com/ajaycsdev/portfolio) | Personal portfolio site | HTML, CSS, JS |
 
@@ -62,25 +60,9 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://linkedin.com/in/ajaycsdev)  
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajay@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)] www.linkedin.com/in/ajay-rathore-585459284
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)]ajaygurjar78692@gmail.com
 
 ---
 
 _“Consistency is more important than perfection.” – Be consistent on GitHub and keep learning!_ 🚀
-
-
-<!--
-**Ajaysingh78/Ajaysingh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
