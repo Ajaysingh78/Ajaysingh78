@@ -12,7 +12,7 @@
 - 🎓 I’m currently a **5th Semester Computer Science Engineering student**
 - 🌱 Learning **DSA**, **Java**, **Full Stack Web Development**, and **Open Source**
 - 🧠 Exploring **Git & GitHub**, **APIs**, and **Cloud Basics**
-- 📫 Reach me at: **ajaygurjar**78692@gmail.com
+- 📫 Reach me at: **ajaygurjar78692@gmail.com**
 - 🌐 Portfolio: https://github.com/Ajaysingh78
 ---
 
@@ -30,7 +30,7 @@
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [📱 Calculator App] https://ajaysingh78.github.io/My-Calculator/ | Basic calculator using JS | HTML, CSS, JS |
+| [📱 Calculator App]( https://ajaysingh78.github.io/My-Calculator/) | Basic calculator using JS | HTML, CSS, JS |
 | [🌦️ Weather App](https://github.com/ajaycsdev/weather-app) | Live weather using API | JS, OpenWeatherMap |
 | [🌐 Portfolio Website](https://github.com/ajaycsdev/portfolio) | Personal portfolio site | HTML, CSS, JS |
 
@@ -60,8 +60,8 @@
 
 ### 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)] www.linkedin.com/in/ajay-rathore-585459284
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)]ajaygurjar78692@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)] (www.linkedin.com/in/ajay-rathore-585459284)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](ajaygurjar78692@gmail.com)
 
 ---
 
