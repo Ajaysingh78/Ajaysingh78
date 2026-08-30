@@ -1,214 +1,250 @@
-# 👋 Hi, I'm Ajay Rathore
+<div align="center">
 
-**Software Engineer • Full-Stack Developer • AI/ML Builder • Problem Solver • Technical Leader**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Ajay%20Rathore&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Technical%20Leader&descAlignY=58&descSize=20" width="100%"/>
 
-<p align="left">
-  <a href="https://ajaysingh78.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ajay-rathore-585459284"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ajaysingh78"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.geeksforgeeks.org/user/ajaygurjmc"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://www.codolio.com/profile/AjaySingh78"><img src="https://img.shields.io/badge/Codolio-FF5722?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio" /></a>
-</p>
+<br/>
 
----
+<a href="https://ajaysingh78.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajay-rathore-585459284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ajaysingh78"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.geeksforgeeks.org/user/ajaygurjmc"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+<a href="https://www.codolio.com/profile/AjaySingh78"><img src="https://img.shields.io/badge/Codolio-FF6B35?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 
-## 👨‍💻 About Me
+<br/><br/>
 
-I'm a Computer Science Engineering student focused on building **real-world software products**, solving complex problems, and turning ideas into scalable, usable systems.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+real-world+software+products;Full-Stack+%2B+AI%2FML+%2B+System+Design;Turning+ideas+into+scalable+systems;Leading+teams+%7C+Shipping+products" alt="Typing SVG"/>
 
-My work spans **full-stack development, backend engineering, AI/ML, and product-focused experimentation**. I have built multi-tenant SaaS platforms, institutional software, healthcare solutions, and NLP-based systems.
+</div>
 
-Beyond development, I actively participate in **national-level hackathons and technical communities** and have coordinated **50+ technical events**, including an **IEEE International Conference** and the **SIH 2024 Grand Finale**.
+<br/>
 
-I thrive in environments where I can combine **engineering, problem-solving, ownership, teamwork, and execution** to build meaningful products.
+## 🧭 About Me
 
----
+```yaml
+name: Ajay Rathore
+role: Computer Science Engineering Student (B.Tech, 2023 – 2027)
+college: IES College of Technology, Bhopal
+focus: Full-Stack Development · Backend Engineering · AI/ML · Product Thinking
+philosophy: "Build every project like a startup, not an assignment."
+currently:
+  - Architecting multi-tenant SaaS platforms
+  - Building AI copilots with Hybrid RAG (Vector + Graph)
+  - Leading 50+ technical events & national hackathons
+```
+
+<br/>
 
 ## 📊 Impact Snapshot
 
-- 🏆 **10+** National-level Hackathon Finals
-- 🧠 **300+** DSA Problems Solved across platforms
-- 🎪 **50+** Technical Events Coordinated & Managed
-- 📚 **30,000+** Books Supported by SmartLib
-- 🤖 **95%+** Accuracy on NLP Dialogue Act Classification
-- ⚡ **20%** Reduction in OmniServe Order-Sync Failures
-- 🧩 **15+** Concurrent Tenants Supported in AI Query Routing
+<div align="center">
 
----
+| 🏆 Hackathon Finals | 🧠 DSA Solved | 🎪 Events Led | 📚 Books Managed | 🤖 NLP Accuracy | ⚡ Sync Failures Cut |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **10+** | **300+** | **50+** | **30,000+** | **95%+** | **20%** |
+
+</div>
+
+<br/>
 
 ## 🚀 Featured Engineering Work
 
-### 🍽️ OmniServe — SaaS Restaurant Management Platform
-A **multi-tenant SaaS platform** designed to unify restaurant operations, QR dine-in ordering, kitchen workflows, table management, billing, and delivery operations.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- **Multi-Tenant Role Architecture:** Robust RBAC hierarchy (`System Admin → Owner → Manager → Staff`).
-- **Interactive Operations:** QR-based dine-in ordering, kitchen display systems (KDS), and real-time table/billing management.
-- **Reliable Order Pipeline:** Event-driven architecture with **Transactional Outbox & Circuit Breakers**.
-- **Third-Party Channel Sync:** Unified integration with **Swiggy & Zomato**, reducing order-sync failures by **20%**.
-- **AI Copilot with Hybrid RAG:** Knowledge grounding combining Vector Search and Graph Databases (**Neo4j + Qdrant**).
-- **Multi-Tenant AI Routing:** Tenant-scoped AI query routing concurrently handling **15+ tenants**.
+### 🍽️ OmniServe
+**Multi-Tenant SaaS · Restaurant Ops Platform**
 
-> **Tech Stack:** `TypeScript` · `Node.js` · `Express.js` · `MongoDB` · `Redis` · `Socket.IO` · `JWT` · `Neo4j` · `Qdrant` · `LangChain` · `LangGraph`  
-> 🔗 **Links:** [GitHub Repository](https://github.com/Ajaysingh78/omniserve) • [Live Demo](https://omniserve.vercel.app/)
+Unified platform for QR dine-in ordering, kitchen workflows, table management, billing & delivery — built for scale.
 
----
+- 🏗️ Role hierarchy: `Admin → Owner → Manager → Staff`
+- ⚡ Event-driven pipeline: Transactional Outbox + Circuit Breakers
+- 🔗 Swiggy/Zomato sync → **20% fewer failures**
+- 🤖 AI Copilot: Hybrid RAG (Vector + Graph DB)
+- 🧩 Tenant-scoped AI routing for **15+ tenants**
 
-### 📚 SmartLib — Institutional Digital Library Platform
-A production-grade digital library platform engineered for **IES University** utilizing **official institutional library records**.
+`TypeScript` `Node.js` `MongoDB` `Redis` `Socket.IO` `Neo4j` `Qdrant` `LangChain` `LangGraph`
 
-- Centralized, high-performance catalog search for academic literature.
-- **Secure campus-only access** with role-based JWT authentication dashboards.
-- Full Admin CRUD operations for book records, inventory tracking, and issue availability.
-- Designed to support **30,000+ books** across diverse academic departments.
-- **AI-powered book descriptions and intelligent recommendations**.
-- Built with a focus on institutional deployment, security, and scalable architecture.
+[🔗 Repo](https://github.com/Ajaysingh78/omniserve) · [🌐 Live](https://omniserve.vercel.app/)
 
-> **Tech Stack:** `React.js` · `Node.js` · `Express.js` · `MongoDB` · `Firebase` · `REST APIs`
+</td>
+<td width="50%" valign="top">
 
----
+### 📚 SmartLib
+**Institutional Digital Library — IES University**
 
-### 🧬 Digital MDR Pathogen Tracing System — SIH 2025
-A healthcare surveillance and epidemiological tracking solution shortlisted at **Top 6 Level Nationally in Smart India Hackathon 2025**.
+Real deployment on official institutional records — not a demo project.
 
-- Real-time Multi-Drug Resistant (MDR) pathogen exposure tracing and infection monitoring.
-- Unified data pipeline integrating **hospital EHR data, laboratory records, and spatial movement tracking**.
-- Automated exposure tracing engine with instant **risk-alert notifications**.
-- Interactive outbreak visualization dashboards for proactive infection control and containment.
+- 🔒 Secure campus-only access
+- 🔑 JWT auth + role-based dashboards
+- 📖 Supports **30,000+ books** across departments
+- 🤖 AI-powered descriptions & recommendations
+- 🛠️ Full admin CRUD for catalog management
 
-> **Tech Stack:** `React.js` · `Node.js` · `Express.js` · `Firebase` · `REST APIs`
+`MERN Stack` `Firebase` `REST APIs`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🤖 Dialogue Act Classification for Customer Support
-An NLP-powered customer-support utterance classification system utilizing fine-tuned **DistilBERT**.
+### 🧬 Digital MDR Pathogen Tracing
+**SIH 2025 — Top 6 Nationally**
 
-- Classified customer support messages across **7 dialogue-act categories**.
-- Fine-tuned transformer model on **600 balanced dialogue samples**.
-- Achieved **95%+ accuracy**, comprehensively evaluated with precision, recall, F1-score, and confusion matrices.
-- Built a lightweight Flask API for **real-time inference and high-throughput batch CSV processing**.
+Healthcare surveillance system for real-time pathogen exposure tracing.
 
-> **Tech Stack:** `Python` · `Flask` · `DistilBERT` · `PyTorch` · `Hugging Face` · `scikit-learn` · `Pandas`
+- 🏥 Integrates EHR data, lab records & movement tracking
+- 🚨 Automated risk-alert engine
+- 📈 Outbreak visualization dashboard
 
----
+`React.js` `Node.js` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Dialogue Act Classification
+**NLP · Customer Support Automation**
+
+Fine-tuned DistilBERT model classifying support messages into intent categories.
+
+- 🎯 **95%+ accuracy** across 7 dialogue-act classes
+- 📊 Trained on 600 balanced dialogues
+- ⚙️ Flask app for real-time + batch CSV predictions
+
+`Python` `PyTorch` `DistilBERT` `Flask` `scikit-learn`
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## ⚙️ Technical Arsenal
 
-| Domain | Technologies & Tools |
+<div align="center">
+
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,mysql"/>
+
+**Full-Stack**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,tailwind"/>
+
+**Backend & Systems**
+<br/>
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/> <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/RBAC-4B5563?style=flat-square"/> <img src="https://img.shields.io/badge/Event--Driven-6366F1?style=flat-square"/>
+
+**AI / ML**
+<br/>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn"/> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/> <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/> <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,redis,neo4j"/> <img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+
+**DevOps & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+
+</div>
+
+<br/>
+
+## 🧠 Problem Solving
+
+<div align="center">
+
+| Platform | Stats |
 |---|---|
-| **Languages** | Java, Python, JavaScript (ES6+), TypeScript, C, C++, SQL |
-| **Full-Stack Development** | React.js, Node.js, Express.js, MERN Stack, HTML5, CSS3, Tailwind CSS |
-| **Backend & Architecture** | RESTful APIs, JWT, WebSockets, Socket.IO, Redis, RBAC, Event-Driven Architecture, Microservices |
-| **AI / ML & Data Science** | PyTorch, Hugging Face Transformers, DistilBERT, LangChain, LangGraph, RAG, scikit-learn, Pandas, NumPy |
-| **Databases** | MongoDB, MySQL, Firebase, Redis, Qdrant, Neo4j |
-| **DevOps & Developer Tools** | Git, GitHub, GitHub Actions, Docker, Postman, VS Code, Linux |
+| 🟢 **GeeksforGeeks** | 211+ problems · Institute Rank **84** |
+| 🟠 **HackerRank** | 5★ Problem Solving |
+| 🔵 **Overall** | **300+ DSA problems** across LeetCode, HackerRank & GfG |
 
----
+</div>
 
-## 🧠 Problem Solving & Algorithmic Skills
-
-- **300+ DSA Problems Solved** across LeetCode, HackerRank, and GeeksforGeeks.
-- **211+ Problems Solved on GeeksforGeeks** (Institute Rank: **84**).
-- **HackerRank:** 5★ Problem Solving badge.
-- Strong foundation in Data Structures, Algorithms, Time/Space complexity optimization, and system design principles.
-
----
+<br/>
 
 ## 🏆 Hackathons & Achievements
 
 - 🏆 **NASA Space Apps Challenge** — Finalist
-- 🇮🇳 **Smart India Hackathon 2025** — Shortlisted, Top 6 Level Nationally
-- 🚀 **10+ National-Level Hackathon Finals** across India
-- 🎓 **MOE IDE Bootcamp** — Selected participant at **IIT BHU**
-- 🤖 Designed and demonstrated production solutions across healthcare, SaaS, AI/ML, and institutional tech
+- 🇮🇳 **Smart India Hackathon 2025** — Shortlisted, Top 6 (National)
+- 🚀 **10+ National-Level Hackathon Finals**
+- 🎓 **MOE IDE Bootcamp** — Selected at IIT BHU
+- 🤖 Solutions shipped across healthcare, SaaS, and AI/ML domains
 
----
+<br/>
 
-## 👑 Leadership & Community Experience
+## 👑 Leadership & Community
 
-- **Hackathon Organizer — Inforia Tech Summit 2026:** Led end-to-end hackathon execution, managing technical operations, judging rubrics, and shortlisting the Top 25 finalist teams across India.
-- **Head Coordinator — Ministry of Education IDE Bootcamp 2026:** Spearheaded technical operations and logistics for a 3-day bootcamp hosting **200+ participants**.
-- **Student Activity Council — Event Secretary:** Managed logistics, cross-functional team coordination, and student engagement for campus-wide initiatives.
-- **GDG On Campus:** Active participant and organizer in Google Developer Group technical workshops and events.
-- **Campus Ambassador — IIT Madras Shaastra:** Represented Shaastra, driving technical awareness and student outreach.
-- **50+ Technical Events Managed:** Orchestrated major events including an **IEEE International Conference**, **SIH 2024 Grand Finale**, robotics competitions, drone challenges, and coding contests.
+<table>
+<tr><td>🎤 <b>Hackathon Organizer</b> — Inforia Tech Summit 2026</td><td>Led execution end-to-end · Shortlisted Top 25 teams nationwide</td></tr>
+<tr><td>🏛️ <b>Head Coordinator</b> — MOE IDE Bootcamp 2026</td><td>Ran a 3-day bootcamp for 200+ participants</td></tr>
+<tr><td>📋 <b>Event Secretary</b> — Student Activity Council</td><td>Campus-wide event logistics & coordination</td></tr>
+<tr><td>💻 <b>GDG On Campus</b></td><td>Active contributor to Google Developer Group initiatives</td></tr>
+<tr><td>🎓 <b>Campus Ambassador</b> — IIT Madras Shaastra</td><td>Outreach & event promotion</td></tr>
+<tr><td>🎪 <b>Technical Event Lead</b></td><td>50+ events incl. IEEE Intl. Conference & SIH 2024 Grand Finale</td></tr>
+</table>
 
----
+<br/>
 
 ## 💼 Experience
 
-### 🏢 Infosys Springboard — Python Developer Intern
-- Engineered and optimized high-performance **REST APIs using Python**, reducing latency by **30%** across critical endpoints.
-- Developed scalable **CRUD applications** utilizing Python, MySQL, and REST APIs integrated with secure **JWT authentication and authorization**.
-- Led a team of **5 developers**, overseeing sprint tasks, architecture discussions, and code integration.
-- Implemented **Git workflows and CI/CD pipelines** for automated testing, linting, and continuous delivery.
+**Infosys Springboard — Python Developer Intern**
+- Built & optimized REST APIs in Python → **30% latency reduction** on critical endpoints
+- Shipped CRUD applications using Python, MySQL, and secure JWT auth
+- Led a **team of 5 developers**, owning task allocation and integration
+- Applied Git + CI/CD practices for reliable delivery
 
----
+<br/>
 
 ## 📜 Certifications
 
-- **Google Cybersecurity Professional Certificate** — Google / Coursera
-- **Foundation of Cybersecurity** — Coursera
-- **Applied Data Science with Python** — IIT Madras / NPTEL
-- **Java Foundation** — Infosys Springboard
-- **Programming in C & C++** — Infosys Springboard
-- **Oracle Cloud Infrastructure Application Foundation Associate** — Oracle
+<div align="center">
 
----
+`Google Cybersecurity Professional` · `Foundation of Cybersecurity (Coursera)` · `Applied Data Science with Python (IIT Madras / NPTEL)` · `Java Foundation (Infosys Springboard)` · `Programming in C` · `Programming in C++` · `Oracle Cloud Application Foundation Associate`
+
+</div>
+
+<br/>
 
 ## 🎓 Education
 
-**IES College of Technology, Bhopal**  
-*Bachelor of Technology (B.Tech) — Computer Science & Engineering*  
-**CGPA:** 7.5 / 10 • **Duration:** 2023 – 2027  
+**IES College of Technology, Bhopal**
+B.Tech — Computer Science and Engineering | CGPA: **7.5 / 10** | 2023 – 2027
 
----
-
-## 🎯 Current Focus
-
-`Full-Stack Engineering` • `Backend Architecture` • `AI/ML & Hybrid RAG` • `Data Structures & Algorithms` • `Distributed Systems` • `Product Engineering`
-
----
+<br/>
 
 ## 📈 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajaysingh78&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaysingh78&theme=tokyonight&hide_border=true" alt="Ajay's GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajaysingh78&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajaysingh78&theme=tokyonight&hide_border=true" width="48%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysingh78&layout=compact&theme=tokyonight&hide_border=true" alt="Ajay's Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajaysingh78&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaysingh78&theme=tokyo-night&hide_border=true" width="48%"/>
 
-### 📊 Contribution Activity Graph
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajaysingh78&theme=tokyo-night&hide_border=true" alt="Ajay's Contribution Activity Graph" />
-</p>
-
-### 🐍 Contribution Grid Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ajaysingh78/Ajaysingh78/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
+<br/>
 
 ## 🌐 Let's Connect
 
-I'm always open to discussing **software engineering, AI systems, full-stack development, hackathons, and innovative product ideas**.
+<div align="center">
 
-<p align="left">
-  <a href="https://ajaysingh78.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-ajaysingh78.netlify.app-blue?style=flat-square&logo=google-chrome" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ajay-rathore-585459284"><img src="https://img.shields.io/badge/LinkedIn-Ajay_Rathore-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://github.com/Ajaysingh78"><img src="https://img.shields.io/badge/GitHub-Ajaysingh78-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://www.geeksforgeeks.org/user/ajaygurjmc"><img src="https://img.shields.io/badge/GeeksforGeeks-ajaygurjmc-298D46?style=flat-square&logo=geeksforgeeks" alt="GeeksforGeeks" /></a>
-  <a href="https://www.codolio.com/profile/AjaySingh78"><img src="https://img.shields.io/badge/Codolio-AjaySingh78-FF5722?style=flat-square" alt="Codolio" /></a>
-</p>
+I'm always open to conversations around **software engineering, AI, product building, and hackathons.**
 
-<p align="center">
-  <b>Building products. Solving problems. Leading with ownership. 🚀</b>
-</p>
+<a href="https://ajaysingh78.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ajay-rathore-585459284"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Ajaysingh78"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<b>Building products. Solving problems. Leading with ownership. 🚀</b>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=100&section=footer" width="100%"/>
+
+</div>
